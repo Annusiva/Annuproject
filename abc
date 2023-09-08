@@ -1,0 +1,3 @@
+environment division.
+working-storage section
+print("all is well")
